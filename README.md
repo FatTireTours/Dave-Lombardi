@@ -1,2 +1,1 @@
-# Dave-Lombardi
-Dave biz card
+# digital-namecard
